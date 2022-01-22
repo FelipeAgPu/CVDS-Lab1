@@ -18,5 +18,5 @@ Mi top de lenguajes preferido es:
  
 ### Link a mi [LinkedIn](https://www.linkedin.com/in/diego-fernando-ruiz-rojas-5aa9a2205/)
 ## Git branching
-![Local](Images/Captura.png)
-![Remoto](Images/Captura2.png)
+![Local](Images/Captura.PNG)
+![Remoto](Images/Captura2.PNG)
